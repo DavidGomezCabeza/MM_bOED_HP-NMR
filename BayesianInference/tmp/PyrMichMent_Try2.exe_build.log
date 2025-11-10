@@ -1,0 +1,43 @@
+sh: line 1: 10728 Segmentation fault      g++ -dumpversion 2>&1
+     22024                       | cut -d'.' -f1
+sh: line 1: 27064 Segmentation fault      g++ -dumpversion 2>&1
+     20644                       | cut -d'.' -f2
+expr: syntax error
+INFO: Could not find files for the given pattern(s).
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 3, column 4: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 3, column 40: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 3, column 50: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 3, column 60: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 3, column 72: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 14, column 6: Declaration
+    of arrays by placing brackets after a variable name is deprecated and
+    will be removed in Stan 2.32.0. Instead use the array keyword before the
+    type. This can be changed automatically using the auto-format flag to
+    stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 35, column 46: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 35, column 58: Declaration
+    of arrays by placing brackets after a type is deprecated and will be
+    removed in Stan 2.32.0. Instead use the array keyword before the type.
+    This can be changed automatically using the auto-format flag to stanc
+Warning in 'd:/David/BayesianInferencesInSilicoScripts/BayesianInferencesInSilicoScripts/tmp/PyrMichMent_Try2.stan', line 161, column 32: integrate_ode_bdf
+    is deprecated and will be removed in Stan 3.0. Use ode_bdf instead. 
+    The new interface is slightly different, see:
+    https://mc-stan.org/users/documentation/case-studies/convert_odes.html
